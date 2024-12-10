@@ -3,6 +3,7 @@
 ## Projeto inicial para praticar lógica de programação
 
 Respositório para organizar os estudos propostos na platafurma da Alura para lógica de programação com Javascript.
+É um jogo onde o usuário precisa descobrir um número secreto proposto pelo programa.
 Incluindo um exemplo de projeto que utiliza:
 - Lógica de programação;
 - Variáveis;
